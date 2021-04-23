@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NavneetPal/.github.io/ExpensesApp/static/css/main.7e628aab.chunk.css",
+    "main.js": "/NavneetPal/.github.io/ExpensesApp/static/js/main.92feb481.chunk.js",
+    "main.js.map": "/NavneetPal/.github.io/ExpensesApp/static/js/main.92feb481.chunk.js.map",
+    "runtime-main.js": "/NavneetPal/.github.io/ExpensesApp/static/js/runtime-main.07018d33.js",
+    "runtime-main.js.map": "/NavneetPal/.github.io/ExpensesApp/static/js/runtime-main.07018d33.js.map",
+    "static/js/2.2958605f.chunk.js": "/NavneetPal/.github.io/ExpensesApp/static/js/2.2958605f.chunk.js",
+    "static/js/2.2958605f.chunk.js.map": "/NavneetPal/.github.io/ExpensesApp/static/js/2.2958605f.chunk.js.map",
+    "index.html": "/NavneetPal/.github.io/ExpensesApp/index.html",
+    "static/css/main.7e628aab.chunk.css.map": "/NavneetPal/.github.io/ExpensesApp/static/css/main.7e628aab.chunk.css.map",
+    "static/js/2.2958605f.chunk.js.LICENSE.txt": "/NavneetPal/.github.io/ExpensesApp/static/js/2.2958605f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07018d33.js",
+    "static/js/2.2958605f.chunk.js",
+    "static/css/main.7e628aab.chunk.css",
+    "static/js/main.92feb481.chunk.js"
+  ]
+}
